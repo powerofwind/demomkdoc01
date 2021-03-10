@@ -1,6 +1,8 @@
-# INDEX
+# ABOUT
 
-(Goto about page)[about.md]
+(Goto index page)[index.md]
+
+For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Commands
 
