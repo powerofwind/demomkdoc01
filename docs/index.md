@@ -1,6 +1,6 @@
 # INDEX
 
-(Goto about page)[about.md]
+[Goto about page](about.md)
 
 ## Commands
 

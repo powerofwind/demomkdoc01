@@ -1,6 +1,6 @@
 # ABOUT
 
-(Goto index page)[index.md]
+[Goto index page](index.md)
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
